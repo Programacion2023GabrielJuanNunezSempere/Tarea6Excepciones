@@ -1,4 +1,4 @@
-# Tarea 6 - Excepciones
+# Tarea 7 - Excepciones
 
 ## 1. Indica cuál es el nombre de la clase Java que define las excepciones, y de la que debe heredar cualquier clase que queramos usar para representar una excepción.
     El nombre de la clase Java que define las excepciones es Throwable, y cualquier clase que queramos usar para representar una excepción debe heredar de esta clase.
